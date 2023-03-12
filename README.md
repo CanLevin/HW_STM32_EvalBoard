@@ -4,4 +4,4 @@
 # SPI
 # I2C
 # UART
-# USART
+# USART# USB_HS-FS
